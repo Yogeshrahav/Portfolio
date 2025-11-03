@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "bannerbear": "^1.4.0",
     "boxicons": "^2.1.4"
   }
 }
